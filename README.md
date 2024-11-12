@@ -11,6 +11,7 @@ For more information, see this [talk](https://swampup2017.sched.com/event/A6CW/d
 or `application/vnd.oci.image.index.v1+json`, update your container tooling (docker, jib, etc) to latest.**
 
 ## Why should I use distroless images?
+## By Mudassir Alam
 
 Restricting what's in your runtime container to precisely what's necessary for your app is a best practice employed by Google
 and other tech giants that have used containers in production for many years.
